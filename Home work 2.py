@@ -6,4 +6,4 @@ while True:
         print(f'Привет, {name.title()}')
         break
     else:
-        print(f'Вы ввели имя {name}')
+        print(f'Нет такого имени {name}')
